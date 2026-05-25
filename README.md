@@ -22,7 +22,7 @@ I'm a Computer Technology Engineer specializing in **Data & AI**, currently inte
 - 📫 Reach me at: **ivan_ramost@outlook.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **My birthday falls on Halloween 🎃**
-
+- 📚 Currently reading: Naked Statistics
 ---
 
 ## 🛠 Tech Stack
