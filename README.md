@@ -89,6 +89,7 @@ Fintech solution built during Banorte's 2024 hackathon. Developed data-driven fe
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -97,11 +98,11 @@ Fintech solution built during Banorte's 2024 hackathon. Developed data-driven fe
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIvanSing&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
+-->
 ---
 
 <div align="center">
 
-*"Building systems that make data useful and AI trustworthy."*
+*"Building systems that model real-world problems."*
 
 </div>
