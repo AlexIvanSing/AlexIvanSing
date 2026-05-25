@@ -66,7 +66,7 @@ Text classification system for mental health detection using TF-IDF, XGBoost, an
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/pepemt/store)
 
-Multi-model AI agent developed in collaboration with Oracle as a socioformador project. Integrates multiple LLMs and modalities to assist in automated decision-making.
+Multi-model AI agent developed in collaboration with Oracle as a training partner project. Integrates multiple LLMs and modalities to assist in automated decision-making.
 
 `Python` `LLM` `Multi-Agent` `Oracle`
 
