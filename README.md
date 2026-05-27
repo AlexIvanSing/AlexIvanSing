@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a Computer Technology Engineer specializing in **Data & AI**, currently interning at **DiDi** as a CX Intelligence Intern — building SQL/Spark pipelines and multi-country data architectures. I love working at the intersection of machine learning, automation, statistics and real-world modeling. I love videogames, animals and singing 🎮🐾🎤
+I'm a Computer Technology Engineer specializing in **Data & AI**, currently interning at **DiDi** as a CX Intelligence Intern — building SQL pipelines and multi-country data architectures. I love working at the intersection of machine learning, automation, statistics and real-world modeling. I love videogames, animals and singing 🎮🐾🎤
 
 - 🔭 Currently working on: **Mental Health Classifier** (NLP/ML) and a **machine learning framework for report automation**
 - 🌱 Currently learning: **Deep Learning, Transformers & NLP**
